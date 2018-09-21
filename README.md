@@ -16,6 +16,7 @@ GUIDES
 		Soft Skills 
 		How to be a five start team-mate 
 		Team Dynamics Basics
+		Extreme Ownership
 		
 		Basics of a Voyage
 		What we expect from you
