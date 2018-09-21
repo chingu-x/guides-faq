@@ -9,21 +9,20 @@ FAQ
 	Possibility for search
 
 GUIDES
-	Preparing for the Voyage
-		Technical
-		Git/Github
-		Soft Skills
-			Growth Mindset
-			Basic Softskills 
-			How to be a five star team-mate
-		Team Dynamics 		
-			Basic Understanding of Team Dynamics in Chingu
-		How standups & your reputation score works
-
+	
 	Chingu Project Roadmap
 		Act 1 - Project Setup
 		Act 2 - Development
 		Act 3 - Closure
+		
+	Preparing for the Voyage
+		Technical
+		Git/github
+		Soft Skills 
+		How to be a five start team-mate 
+		
+		Team Dynamics Basics
+		How Standups & your reputation score work
 
 	Project Manager Prep
 		PM’s in Chingu and our unique context
