@@ -11,7 +11,7 @@ FAQ
 GUIDES
 	Preparing for the Voyage
 		Technical
-			Git/Github
+		Git/Github
 		Soft Skills
 			Growth Mindset
 			Basic Softskills 
