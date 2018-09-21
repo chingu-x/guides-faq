@@ -1,7 +1,46 @@
 # guides-faq WIP
 Place to collect and organize resource documents for chingu.io
 
+Chingu Guides/ FAQ
 
+
+FAQ
+	List of Questions & Answers under specific subgroups
+	Possibility for search
+
+GUIDES
+	Preparing for the Voyage
+		Technical
+			Git/Github
+		Soft Skills
+			Growth Mindset
+			Basic Softskills 
+			How to be a five star team-mate
+		Team Dynamics 		
+			Basic Understanding of Team Dynamics in Chingu
+
+	Chingu Project Roadmap
+		Act 1 - Project Setup
+		Act 2 - Development
+		Act 3 - Closure
+
+	Project Manager Prep
+		PM’s in Chingu and our unique context
+		How to prepare
+		How to use the Chingu Project Roadmap as a guide
+		Troubleshooting issues as a PM
+		Encouraging accountability in your team
+
+	Troubleshooting in Teams
+		What happens if a teammate has disappeared?
+		What happens if a project manager has disappeared?
+		What happens if I want to change the Project Manager?
+		What if I need to drop out of the voyage?
+		What happens if a teammate or team is not responsive / lost the momentum?
+		What happens if I have a conflict with my team? 
+		What happens if I want to transfer teams? 
+
+----------
 
 At Chingu, we build to learn. Below is the project roadmap for teams:
 
