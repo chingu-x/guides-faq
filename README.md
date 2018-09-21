@@ -9,22 +9,24 @@ FAQ
 	Possibility for search
 
 GUIDES
-	
-	Chingu Project Roadmap
-		Act 1 - Project Setup
-		Act 2 - Development
-		Act 3 - Closure
 		
 	Preparing for the Voyage
 		Technical
 		Git/github
 		Soft Skills 
 		How to be a five start team-mate 
-		
 		Team Dynamics Basics
+		
+		Basics of a Voyage
+		What we expect from you
 		How Standups & your reputation score work
 		Code of Conduct
-
+		
+	Chingu Project Roadmap
+		Act 1 - Project Setup
+		Act 2 - Development
+		Act 3 - Closure
+		
 	Project Manager Prep
 		PM’s in Chingu and our unique context
 		How to prepare
