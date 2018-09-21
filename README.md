@@ -494,3 +494,199 @@ opportunity to grow.
 
 ## #8 - The Voyage is Complete 
 
+
+
+##FAQ Notes:
+
+Chingu Code of Conduct
+Behavior that will get you kicked out:
+
+BASICS
+What is Chingu?
+Chingu is building a global collaboration capital for 21st century tech-learners** to gain experience, meet friends and generate impact through building projects. 
+
+Chingu’s mission is to empower the planet’s tech-learners with 21st century skills by facilitating diverse collaboration experiences and build-to-learn projects.
+**Developers, designers, data scientists, and digital marketers can all find a home here. 
+
+What is a Voyage?
+A Voyage is an ambitious community with shared goals and an opportunity to gain experience learning and building with a team. 
+
+Those that are accepted are organized into remote teams, given prompts and various tools to aid them accelerate their learning. 
+
+How long is the Voyage?
+A Voyage lasts 8 weeks. 
+
+Where is Chingu located? 
+Chingu and all the Voyages we run are 100% remote. 
+
+How many people are in a typical Voyage?
+A Voyage has between 200-300 people, with an average of 75 different countries represented. 
+
+What are my Voyage options?
+See the current Voyage list for dates.     
+
+Is this program only for Full-time members? 
+No, Voyages are open to both Full-time and Part-time learners. 
+
+What are the technical qualifications?
+You need to have built something. Your very first project should not be a team project. If you don’t have a finished project, go build and then apply. 
+
+What are the non-technical qualifications?
+Soft skills are the greatest skill we can learn, and are paramount to any team’s success. We don’t expect you to be a master, but we do expect you to have read the prep material on soft skills. 
+
+How much does it cost?
+Voyages are free. We are developing another product that will have a price, but that is still in development. 
+
+Who is the typical Chingu Voyage applicant?
+Open to collaboration, accountable, and hungry to level-up their skills. 
+
+As far as skill and experience level, if 0 is just started to learn today and 100 is got a developer job, Chingu members come from the 15 - 150 range. New learners who have built a project or two → experienced professional developers learning new skills (new frameworks, leadership, mentorship). 
+
+CURRICULUM
+What skills will I learn at Chingu?
+In a typical Voyage, you can expect to have the opportunity to earn various Hard and Soft skills. 
+
+Hard skills: 
+Git/github
+Accelerated 
+
+Soft skills: 
+Leadership
+Time management 
+Collaboration
+Confidence 
+Empathy
+Conflict resolution 
+Adaptability
+Creativity  
+
+Why can we use any tech-stack?
+Yes, Chingu is tech-stack agnostic and the team decides together what tech-stack to use. 
+
+A big portion of our team-formation algorithm is connecting people who have similar experience levels and tech-stack preferences. 
+
+Most people who join Chingu thus far are into Web-Development, and the most common stack is MERN (MongoDB, Express, React, Node) for the more experienced and HTML/CSS/Basic Javascript for the newer learners. 
+
+What's a typical day like in the Voyage?
+This really depends on the team and particular Voyage, but building something or learning what is needed to build something likely on an average day. All with the support of a community doing the same thing. 
+
+Can I really become a developer by doing Voyages?
+Yes, many people get a job both during and after each Voyage. Though see below for the next question related to this. 
+
+Will I be guaranteed a job after completing a project?
+People are constantly getting jobs in the Chingu ecosystem, but completing one Voyage does not guarantee you will get a job. We launch teams at all levels - from newer learners building landing pages to experienced experts building full stack applications. 
+
+That being said, by doing Voyages you gain in-demand hard skills and learn how to work in a modern team, the two core aspects all employees look for.
+
+I’m an absolute beginner with zero experience or knowledge in the subject matter you facilitate (e.g., web development, digital marketing). Is Chingu still for me? 
+No, we encourage absolute beginners to build a few projects before applying to Chingu. Your very first project should not be a team project. 
+
+What makes you different from other coding bootcamps?
+Chingu isn’t a coding bootcamp - we’re a collaboration capital for ambitious learners. 
+
+I'm ready. How do I apply?
+Simply sign-up at chingu.io and you will be prompted to apply. 
+
+How do I secure my spot in a course?
+If you’re a first time member, there’s no way to secure a spot, though we try to give as many new people an opportunity. 
+
+Once you are accepted, you can secure your spot by maintaining a high reputation score.  
+
+Besides the hours spent communicating with my team, how much time do I need to dedicate to a Voyage outside of communication?
+This is dependent on your skill level, the team dynamics, and how outside of your comfort zone the project is.
+
+For example, if you’re using a tech-stack you’re familiar with, you would need to spend much less time than if you’re learning a new framework to complete your tasks. 
+
+I’m interested, but have very little programming experience - how can I prepare?
+Our mantra is “build-to-learn” so we recommend people go out and build some basic projects. 
+
+What will happen after I complete an application?
+You will receive a notification that your application has been received. 
+
+We review applications once a week, though it can sometimes take 1-3 weeks to get a response back. 
+
+When should I apply to get into a particular Voyage cohort?
+We typically run Voyages every few months, so you can apply at anytime. That being said, to be safe we recommend applying 6-8 weeks early. 
+
+What if I am accepted into Chingu and need to change my start date?
+For reasonable issues or emergencies we can defer enrollment. 
+
+CHINGU’S PACE
+What is the policy on absence for special events, weddings, trips, etc?
+It all depends on the specific context. The Voyage is 8 weeks, so for most cases as long as you communicate and the team adapts as necessary it’s fine. 
+
+Laziness or apathy are not appropriate excuses. 
+
+Chingu is a meritocracy and your actions now will dictate your opportunities in the future on the platform. Your peers will be rating you out of 5 each week as a team-mate, and the average of those ratings will dictate whether you can join a Voyage in the future, as well as the type of team-mates you may have (ex. People who have a score of 2 likely have issues with unreliability, and it wouldn’t be fair to place them with someone who has proven to be reliable). 
+
+What is the policy on dropping out for emergencies?
+Emergencies happen and
+
+Applications / Pre-Voyage
+
+How can I prepare before a Voyage begins?
+Upon acceptance, you’ll be given a Voyage-prep roadmap, with various resources and suggestions to help you prepare for your Voyage.
+
+How are teams matched together?
+We use a variety of parameters and this is changing constantly as we improve, but it involves timezone, tech-stack familiarity and commitment availability.
+
+During the Voyage
+Who decides projects?
+The team decides on the project. We provide project prompts based on the team’s general level, and highly encourage inexperienced teams to follow these prompts, but ultimately it is the team who decides. 
+
+Are all projects unique?
+No. About half the projects are unique projects and the other half are clones of popular startups like Airbnb or Spotify. The goal at Chingu is to learn and build, so both are welcomed! 
+
+How do you work together?
+Every team is unique, but all teams will be given the same structure and tools to help them work together. 
+
+You’re given a team Slack channel for communication, a project roadmap to follow, and if possible a Project Manager. We also have mandatory weekly check-in forms to help ensure team communication and accountability. 
+
+What platform do teams work on?
+A typical team will utilize a workflow that includes the following platforms: 
+
+Slack/ Discord/ Google Hangouts for team communication and meetings
+Git/ Github for a code repository
+Github projects, Waffle or Trello for task management 
+Chingu platform for Team Standups & motivation 
+
+What if I have questions along the way?
+You definitely will have questions and there will be many areas to ask them, including team channels, community chats, a question channel, and by making a ticket.
+
+What happens if we don't complete our project in time
+In a typical Voyage we may launch 70-110 different teams. These teams will range from people working on landing pages, to data science projects to full stack applications. Projects will have different ambition levels and scope, and some won’t be able to finish in the time frame. That is completely okay and we always have some teams that transfer into the next Voyage to continue working on it.
+
+
+Team Issues
+
+What happens if a teammate has disappeared?
+
+What happens if a project manager has disappeared?
+
+What happens if I want to change the Project Manager?
+
+What if I need to drop out of the voyage?
+
+What happens if a teammate or team is not responsive / lost the momentum?
+
+
+After the Voyage
+
+When do we submit the projects?
+Projects are submitted when the project MVP (Minimum Viable Project) is completed before or at the end of the 8 week Voyage. 
+
+Eligible project MVPs will be showcased in Chingu’s Project Showcase article. 
+
+How do we submit projects?
+They’ll be Project submission form in your team portal where the project can be submitted. Towards the end of the Voyage we will notify the community with clear instructions on how to submit as well. 
+
+What happens next?
+You get a job, take a break, and/or apply for another Voyage! 
+
+
+PRESS
+
+I'm writing an article and want to learn more about Chingu. Who do I contact?
+Please reach out at admin@chingu.io and we’ll get back to you. 
+
+
