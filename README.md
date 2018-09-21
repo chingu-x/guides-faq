@@ -18,6 +18,7 @@ GUIDES
 			How to be a five star team-mate
 		Team Dynamics 		
 			Basic Understanding of Team Dynamics in Chingu
+		How standups & your reputation score works
 
 	Chingu Project Roadmap
 		Act 1 - Project Setup
@@ -39,6 +40,11 @@ GUIDES
 		What happens if a teammate or team is not responsive / lost the momentum?
 		What happens if I have a conflict with my team? 
 		What happens if I want to transfer teams? 
+		
+	How to unlock the community
+		What benefits come with a Voyage?
+		How to ask for code help
+		How to ask for other types of help
 
 ----------
 
