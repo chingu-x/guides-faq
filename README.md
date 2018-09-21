@@ -23,6 +23,7 @@ GUIDES
 		
 		Team Dynamics Basics
 		How Standups & your reputation score work
+		Code of Conduct
 
 	Project Manager Prep
 		PM’s in Chingu and our unique context
